@@ -1,5 +1,3 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-	pageEncoding="UTF-8"%>
       <!--sidebar start-->
       <aside>
           <div id="sidebar"  class="nav-collapse ">
@@ -8,17 +6,17 @@
                   <li class="active">
                       <a class="" href="index.html">
                           <i class="icon_house_alt"></i>
-                          <span>업무관리</span>
+                          <span>shop</span>
                       </a>
                   </li>
 				  <li class="sub-menu">
                       <a href="javascript:;" class="">
                           <i class="icon_document_alt"></i>
-                          <span>selllist</span>
+                          <span>회원 관리 </span>
                           <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
                       <ul class="sub">
-                          <li><a class="" href="form_component.html">Form Elements</a></li>                          
+                          <li><a class="" href="form_component.html">회원가입</a></li>                          
                           <li><a class="" href="form_validation.html">Form Validation</a></li>
                       </ul>
                   </li>       

@@ -8,18 +8,19 @@
                   <li class="active">
                       <a class="" href="index.html">
                           <i class="icon_house_alt"></i>
-                          <span>업무관리</span>
+                          <span>Main</span>
                       </a>
                   </li>
 				  <li class="sub-menu">
                       <a href="javascript:;" class="">
                           <i class="icon_document_alt"></i>
-                          <span>selllist</span>
+                          <span>매장관리</span>
                           <span class="menu-arrow arrow_carrot-right"></span>
                       </a>
                       <ul class="sub">
-                          <li><a class="" href="form_component.html">Form Elements</a></li>                          
-                          <li><a class="" href="form_validation.html">Form Validation</a></li>
+                          <li><a class="" href="form_component.html">매장 가입</a></li>                          
+                          <li><a class="" href="form_validation.html">매장 정보 수정</a></li>
+                          <li><a class="" href="form_validation.html">매장 조회</a></li>
                       </ul>
                   </li>       
                   <li class="sub-menu">

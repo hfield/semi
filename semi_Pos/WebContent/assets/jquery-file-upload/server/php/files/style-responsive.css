@@ -378,13 +378,13 @@ For tablets and phones
 	}
 
 	/***
-	Dashboard date range panel
+	Member date range panel
 	***/
-	.page-content .breadcrumb .dashboard-date-range  {
+	.page-content .breadcrumb .Member-date-range  {
 		padding-bottom: 8px;
 	} 
 
-	.page-content .breadcrumb .dashboard-date-range span {
+	.page-content .breadcrumb .Member-date-range span {
 		display: none;
 	}
 
